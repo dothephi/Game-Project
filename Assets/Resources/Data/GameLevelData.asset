@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5ce48efe9ae55d418a1aa8cd772b96c, type: 3}
+  m_Name: GameLevelData
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: Body
+    boardData:
+    - {fileID: 11400000, guid: 3edcde16311325a46a7b32ed6e56b874, type: 2}
+    - {fileID: 11400000, guid: 667444f548bea0e4db92331a2ad0be81, type: 2}
+    - {fileID: 11400000, guid: 95d502a0475945447a43189bcdf67560, type: 2}
+  - categoryName: Job
+    boardData:
+    - {fileID: 11400000, guid: 551cb333e3884574884b7be8e600b1be, type: 2}
+    - {fileID: 11400000, guid: 2df729abd39638a4c978e0cfb7150d90, type: 2}
+  - categoryName: Country
+    boardData:
+    - {fileID: 11400000, guid: 70f6a559dd8f20f4d81f2d2bc2695ae1, type: 2}
+    - {fileID: 11400000, guid: a5c3760851b8a6046a9ba51b14c118da, type: 2}
